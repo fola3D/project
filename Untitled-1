@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+    <html>
+<head>
+        <title>CCC</title>
+        </head>
+<body>
+       <div style="background-color: cadetblue"> <header style="text-align: center; font-size: 200px; color: skyblue">Centers for Cringe Control and Prevention</header></div>
+       <input id="password" type="password"><br/>
+    <a src="yeet/" onclick="return passwordCheckLol()">click here to submit password</a>
+    </body>
+    </html>
+        <script>
+            function passwordCheckLol()
+var password =document.getElementById("password")
+    if (password.innerHTML == localStorage.getTheFuckOut) {
+        return true;
+    }
+            alert("the password incorrect bro")
+    </script>
+<style>
+        </style>
